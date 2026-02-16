@@ -30,6 +30,6 @@ Install the required system tools based on your OS.
 ####  macOS (Homebrew) installation
 ```bash
 brew install neovim ripgrep fd lazygit node npm git
-
+brew install --cask font-jetbreins-mono-nerd-font
 
 
